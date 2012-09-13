@@ -5,152 +5,251 @@
 
 В исследовании приняли участие 116 человек. Средний возраст испытуемых – 63,4 года. Соотношение полов – 106 и 10 женщин и мужчин соответственно. В первой группе, где проводилось монолечение хондропроектором артра среднее время болезни составляет 9,3 года (со стандартным отклонением 5,5 лет), во второй и третьей группах 5,4 (±3,0) и 5,0 (±3,7) лет соответственно.
 
-[1] "АЛФУТОП"
-<!-- html table generated in R 2.15.1 by xtable 1.7-0 package -->
-<!-- Thu Sep 13 22:52:42 2012 -->
-<TABLE border=1>
-<TR> <TH>  </TH> <TH> n </TH> <TH> mean </TH> <TH> sd </TH> <TH> trimmed </TH> <TH> mad </TH> <TH> min </TH> <TH> max </TH> <TH> range </TH> <TH> se </TH>  </TR>
-  <TR> <TD align="right"> Возраст </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 62.10 </TD> <TD align="right"> 7.45 </TD> <TD align="right"> 62.16 </TD> <TD align="right"> 7.41 </TD> <TD align="right"> 49.00 </TD> <TD align="right"> 77.00 </TD> <TD align="right"> 28.00 </TD> <TD align="right"> 1.18 </TD> </TR>
-  <TR> <TD align="right"> Длит.болезни </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 5.40 </TD> <TD align="right"> 3.07 </TD> <TD align="right"> 5.09 </TD> <TD align="right"> 2.97 </TD> <TD align="right"> 1.00 </TD> <TD align="right"> 13.00 </TD> <TD align="right"> 12.00 </TD> <TD align="right"> 0.49 </TD> </TR>
-  <TR> <TD align="right"> ИМТ </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 26.00 </TD> <TD align="right"> 3.12 </TD> <TD align="right"> 26.30 </TD> <TD align="right"> 2.89 </TD> <TD align="right"> 18.50 </TD> <TD align="right"> 30.90 </TD> <TD align="right"> 12.40 </TD> <TD align="right"> 0.49 </TD> </TR>
-  <TR> <TD align="right"> РСЩ_1 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 2.75 </TD> <TD align="right"> 0.37 </TD> <TD align="right"> 2.77 </TD> <TD align="right"> 0.39 </TD> <TD align="right"> 1.98 </TD> <TD align="right"> 3.50 </TD> <TD align="right"> 1.52 </TD> <TD align="right"> 0.06 </TD> </TR>
-  <TR> <TD align="right"> УЗ.хрящ_1 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 0.69 </TD> <TD align="right"> 0.21 </TD> <TD align="right"> 0.68 </TD> <TD align="right"> 0.24 </TD> <TD align="right"> 0.35 </TD> <TD align="right"> 1.20 </TD> <TD align="right"> 0.85 </TD> <TD align="right"> 0.03 </TD> </TR>
-  <TR> <TD align="right"> ВАШ_1 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 71.62 </TD> <TD align="right"> 14.30 </TD> <TD align="right"> 72.03 </TD> <TD align="right"> 14.83 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 100.00 </TD> <TD align="right"> 60.00 </TD> <TD align="right"> 2.26 </TD> </TR>
-  <TR> <TD align="right"> WOMAC_1 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 86.62 </TD> <TD align="right"> 14.23 </TD> <TD align="right"> 85.75 </TD> <TD align="right"> 14.08 </TD> <TD align="right"> 62.00 </TD> <TD align="right"> 124.00 </TD> <TD align="right"> 62.00 </TD> <TD align="right"> 2.25 </TD> </TR>
-  <TR> <TD align="right"> HAQ_1 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 8.25 </TD> <TD align="right"> 3.87 </TD> <TD align="right"> 7.47 </TD> <TD align="right"> 1.48 </TD> <TD align="right"> 4.00 </TD> <TD align="right"> 22.00 </TD> <TD align="right"> 18.00 </TD> <TD align="right"> 0.61 </TD> </TR>
-  <TR> <TD align="right"> Индекс.Лекена_1 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 11.30 </TD> <TD align="right"> 2.91 </TD> <TD align="right"> 11.16 </TD> <TD align="right"> 2.97 </TD> <TD align="right"> 6.00 </TD> <TD align="right"> 18.00 </TD> <TD align="right"> 12.00 </TD> <TD align="right"> 0.46 </TD> </TR>
-  <TR> <TD align="right"> ВАШ_2 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 56.98 </TD> <TD align="right"> 14.82 </TD> <TD align="right"> 56.84 </TD> <TD align="right"> 14.83 </TD> <TD align="right"> 20.00 </TD> <TD align="right"> 90.00 </TD> <TD align="right"> 70.00 </TD> <TD align="right"> 2.34 </TD> </TR>
-  <TR> <TD align="right"> WOMAC_2 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 81.22 </TD> <TD align="right"> 13.96 </TD> <TD align="right"> 80.41 </TD> <TD align="right"> 15.57 </TD> <TD align="right"> 60.00 </TD> <TD align="right"> 122.00 </TD> <TD align="right"> 62.00 </TD> <TD align="right"> 2.21 </TD> </TR>
-  <TR> <TD align="right"> HAQ_2 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 7.78 </TD> <TD align="right"> 3.61 </TD> <TD align="right"> 7.00 </TD> <TD align="right"> 1.48 </TD> <TD align="right"> 4.00 </TD> <TD align="right"> 20.00 </TD> <TD align="right"> 16.00 </TD> <TD align="right"> 0.57 </TD> </TR>
-  <TR> <TD align="right"> Индекс.Лекена_2 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 10.15 </TD> <TD align="right"> 2.75 </TD> <TD align="right"> 10.03 </TD> <TD align="right"> 2.97 </TD> <TD align="right"> 5.00 </TD> <TD align="right"> 17.00 </TD> <TD align="right"> 12.00 </TD> <TD align="right"> 0.43 </TD> </TR>
-  <TR> <TD align="right"> РСЩ_3 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 2.74 </TD> <TD align="right"> 0.37 </TD> <TD align="right"> 2.75 </TD> <TD align="right"> 0.36 </TD> <TD align="right"> 1.90 </TD> <TD align="right"> 3.50 </TD> <TD align="right"> 1.60 </TD> <TD align="right"> 0.06 </TD> </TR>
-  <TR> <TD align="right"> УЗЩ_3 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 0.66 </TD> <TD align="right"> 0.22 </TD> <TD align="right"> 0.65 </TD> <TD align="right"> 0.26 </TD> <TD align="right"> 0.30 </TD> <TD align="right"> 1.20 </TD> <TD align="right"> 0.90 </TD> <TD align="right"> 0.03 </TD> </TR>
-  <TR> <TD align="right"> ВАШ_3 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 65.81 </TD> <TD align="right"> 11.48 </TD> <TD align="right"> 66.09 </TD> <TD align="right"> 7.41 </TD> <TD align="right"> 35.00 </TD> <TD align="right"> 90.00 </TD> <TD align="right"> 55.00 </TD> <TD align="right"> 1.82 </TD> </TR>
-  <TR> <TD align="right"> WOMAC_3 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 80.20 </TD> <TD align="right"> 14.51 </TD> <TD align="right"> 78.78 </TD> <TD align="right"> 11.86 </TD> <TD align="right"> 60.00 </TD> <TD align="right"> 115.00 </TD> <TD align="right"> 55.00 </TD> <TD align="right"> 2.29 </TD> </TR>
-  <TR> <TD align="right"> HAQ_3 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 7.83 </TD> <TD align="right"> 3.49 </TD> <TD align="right"> 7.12 </TD> <TD align="right"> 1.48 </TD> <TD align="right"> 4.00 </TD> <TD align="right"> 20.00 </TD> <TD align="right"> 16.00 </TD> <TD align="right"> 0.55 </TD> </TR>
-  <TR> <TD align="right"> Индекс.Лекена_3 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 10.28 </TD> <TD align="right"> 2.24 </TD> <TD align="right"> 10.19 </TD> <TD align="right"> 1.48 </TD> <TD align="right"> 6.00 </TD> <TD align="right"> 15.00 </TD> <TD align="right"> 9.00 </TD> <TD align="right"> 0.35 </TD> </TR>
-   </TABLE>
-[1] "АРТРА"
-<!-- html table generated in R 2.15.1 by xtable 1.7-0 package -->
-<!-- Thu Sep 13 22:52:42 2012 -->
-<TABLE border=1>
-<TR> <TH>  </TH> <TH> n </TH> <TH> mean </TH> <TH> sd </TH> <TH> trimmed </TH> <TH> mad </TH> <TH> min </TH> <TH> max </TH> <TH> range </TH> <TH> se </TH>  </TR>
-  <TR> <TD align="right"> Возраст </TD> <TD align="right"> 36.00 </TD> <TD align="right"> 68.28 </TD> <TD align="right"> 8.93 </TD> <TD align="right"> 67.97 </TD> <TD align="right"> 8.15 </TD> <TD align="right"> 48.00 </TD> <TD align="right"> 89.00 </TD> <TD align="right"> 41.00 </TD> <TD align="right"> 1.49 </TD> </TR>
-  <TR> <TD align="right"> Длит.болезни </TD> <TD align="right"> 36.00 </TD> <TD align="right"> 9.32 </TD> <TD align="right"> 5.52 </TD> <TD align="right"> 9.13 </TD> <TD align="right"> 5.19 </TD> <TD align="right"> 1.00 </TD> <TD align="right"> 20.00 </TD> <TD align="right"> 19.00 </TD> <TD align="right"> 0.92 </TD> </TR>
-  <TR> <TD align="right"> ИМТ </TD> <TD align="right"> 36.00 </TD> <TD align="right"> 24.33 </TD> <TD align="right"> 2.88 </TD> <TD align="right"> 24.50 </TD> <TD align="right"> 2.59 </TD> <TD align="right"> 17.00 </TD> <TD align="right"> 29.00 </TD> <TD align="right"> 12.00 </TD> <TD align="right"> 0.48 </TD> </TR>
-  <TR> <TD align="right"> РСЩ_1 </TD> <TD align="right"> 36.00 </TD> <TD align="right"> 2.04 </TD> <TD align="right"> 0.59 </TD> <TD align="right"> 2.05 </TD> <TD align="right"> 0.55 </TD> <TD align="right"> 0.87 </TD> <TD align="right"> 3.41 </TD> <TD align="right"> 2.54 </TD> <TD align="right"> 0.10 </TD> </TR>
-  <TR> <TD align="right"> УЗ.хрящ_1 </TD> <TD align="right"> 36.00 </TD> <TD align="right"> 0.97 </TD> <TD align="right"> 0.73 </TD> <TD align="right"> 0.86 </TD> <TD align="right"> 0.26 </TD> <TD align="right"> 0.50 </TD> <TD align="right"> 5.00 </TD> <TD align="right"> 4.50 </TD> <TD align="right"> 0.12 </TD> </TR>
-  <TR> <TD align="right"> ВАШ_1 </TD> <TD align="right"> 36.00 </TD> <TD align="right"> 80.14 </TD> <TD align="right"> 10.18 </TD> <TD align="right"> 80.50 </TD> <TD align="right"> 7.41 </TD> <TD align="right"> 50.00 </TD> <TD align="right"> 100.00 </TD> <TD align="right"> 50.00 </TD> <TD align="right"> 1.70 </TD> </TR>
-  <TR> <TD align="right"> WOMAC_1 </TD> <TD align="right"> 36.00 </TD> <TD align="right"> 92.61 </TD> <TD align="right"> 11.69 </TD> <TD align="right"> 92.70 </TD> <TD align="right"> 10.38 </TD> <TD align="right"> 69.00 </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 47.00 </TD> <TD align="right"> 1.95 </TD> </TR>
-  <TR> <TD align="right"> HAQ_1 </TD> <TD align="right"> 36.00 </TD> <TD align="right"> 14.19 </TD> <TD align="right"> 4.94 </TD> <TD align="right"> 14.27 </TD> <TD align="right"> 5.93 </TD> <TD align="right"> 6.00 </TD> <TD align="right"> 22.00 </TD> <TD align="right"> 16.00 </TD> <TD align="right"> 0.82 </TD> </TR>
-  <TR> <TD align="right"> Индекс.Лекена_1 </TD> <TD align="right"> 36.00 </TD> <TD align="right"> 12.31 </TD> <TD align="right"> 3.32 </TD> <TD align="right"> 12.23 </TD> <TD align="right"> 3.71 </TD> <TD align="right"> 7.00 </TD> <TD align="right"> 18.00 </TD> <TD align="right"> 11.00 </TD> <TD align="right"> 0.55 </TD> </TR>
-  <TR> <TD align="right"> ВАШ_2 </TD> <TD align="right"> 36.00 </TD> <TD align="right"> 79.64 </TD> <TD align="right"> 10.20 </TD> <TD align="right"> 80.23 </TD> <TD align="right"> 7.41 </TD> <TD align="right"> 50.00 </TD> <TD align="right"> 100.00 </TD> <TD align="right"> 50.00 </TD> <TD align="right"> 1.70 </TD> </TR>
-  <TR> <TD align="right"> WOMAC_2 </TD> <TD align="right"> 36.00 </TD> <TD align="right"> 91.86 </TD> <TD align="right"> 12.02 </TD> <TD align="right"> 91.90 </TD> <TD align="right"> 8.15 </TD> <TD align="right"> 69.00 </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 47.00 </TD> <TD align="right"> 2.00 </TD> </TR>
-  <TR> <TD align="right"> HAQ_2 </TD> <TD align="right"> 36.00 </TD> <TD align="right"> 14.19 </TD> <TD align="right"> 4.94 </TD> <TD align="right"> 14.27 </TD> <TD align="right"> 5.93 </TD> <TD align="right"> 6.00 </TD> <TD align="right"> 22.00 </TD> <TD align="right"> 16.00 </TD> <TD align="right"> 0.82 </TD> </TR>
-  <TR> <TD align="right"> Индекс.Лекена_2 </TD> <TD align="right"> 36.00 </TD> <TD align="right"> 12.31 </TD> <TD align="right"> 3.32 </TD> <TD align="right"> 12.23 </TD> <TD align="right"> 3.71 </TD> <TD align="right"> 7.00 </TD> <TD align="right"> 18.00 </TD> <TD align="right"> 11.00 </TD> <TD align="right"> 0.55 </TD> </TR>
-  <TR> <TD align="right"> РСЩ_3 </TD> <TD align="right"> 36.00 </TD> <TD align="right"> 2.03 </TD> <TD align="right"> 0.59 </TD> <TD align="right"> 2.04 </TD> <TD align="right"> 0.57 </TD> <TD align="right"> 0.80 </TD> <TD align="right"> 3.41 </TD> <TD align="right"> 2.61 </TD> <TD align="right"> 0.10 </TD> </TR>
-  <TR> <TD align="right"> УЗЩ_3 </TD> <TD align="right"> 36.00 </TD> <TD align="right"> 0.88 </TD> <TD align="right"> 0.38 </TD> <TD align="right"> 0.85 </TD> <TD align="right"> 0.37 </TD> <TD align="right"> 0.38 </TD> <TD align="right"> 2.10 </TD> <TD align="right"> 1.72 </TD> <TD align="right"> 0.06 </TD> </TR>
-  <TR> <TD align="right"> ВАШ_3 </TD> <TD align="right"> 36.00 </TD> <TD align="right"> 78.89 </TD> <TD align="right"> 10.01 </TD> <TD align="right"> 79.33 </TD> <TD align="right"> 7.41 </TD> <TD align="right"> 55.00 </TD> <TD align="right"> 95.00 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 1.67 </TD> </TR>
-  <TR> <TD align="right"> WOMAC_3 </TD> <TD align="right"> 36.00 </TD> <TD align="right"> 90.89 </TD> <TD align="right"> 12.28 </TD> <TD align="right"> 91.27 </TD> <TD align="right"> 11.86 </TD> <TD align="right"> 65.00 </TD> <TD align="right"> 110.00 </TD> <TD align="right"> 45.00 </TD> <TD align="right"> 2.05 </TD> </TR>
-  <TR> <TD align="right"> HAQ_3 </TD> <TD align="right"> 36.00 </TD> <TD align="right"> 13.72 </TD> <TD align="right"> 4.86 </TD> <TD align="right"> 13.73 </TD> <TD align="right"> 6.67 </TD> <TD align="right"> 6.00 </TD> <TD align="right"> 22.00 </TD> <TD align="right"> 16.00 </TD> <TD align="right"> 0.81 </TD> </TR>
-  <TR> <TD align="right"> Индекс.Лекена_3 </TD> <TD align="right"> 36.00 </TD> <TD align="right"> 11.86 </TD> <TD align="right"> 3.30 </TD> <TD align="right"> 11.80 </TD> <TD align="right"> 3.71 </TD> <TD align="right"> 7.00 </TD> <TD align="right"> 18.00 </TD> <TD align="right"> 11.00 </TD> <TD align="right"> 0.55 </TD> </TR>
-   </TABLE>
-[1] "СУПЛАЗИН"
-<!-- html table generated in R 2.15.1 by xtable 1.7-0 package -->
-<!-- Thu Sep 13 22:52:42 2012 -->
-<TABLE border=1>
-<TR> <TH>  </TH> <TH> n </TH> <TH> mean </TH> <TH> sd </TH> <TH> trimmed </TH> <TH> mad </TH> <TH> min </TH> <TH> max </TH> <TH> range </TH> <TH> se </TH>  </TR>
-  <TR> <TD align="right"> Возраст </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 60.50 </TD> <TD align="right"> 9.18 </TD> <TD align="right"> 61.38 </TD> <TD align="right"> 9.64 </TD> <TD align="right"> 37.00 </TD> <TD align="right"> 72.00 </TD> <TD align="right"> 35.00 </TD> <TD align="right"> 1.45 </TD> </TR>
-  <TR> <TD align="right"> Длит.болезни </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 5.09 </TD> <TD align="right"> 3.75 </TD> <TD align="right"> 4.64 </TD> <TD align="right"> 2.97 </TD> <TD align="right"> 1.00 </TD> <TD align="right"> 15.00 </TD> <TD align="right"> 14.00 </TD> <TD align="right"> 0.59 </TD> </TR>
-  <TR> <TD align="right"> ИМТ </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 24.99 </TD> <TD align="right"> 2.69 </TD> <TD align="right"> 25.23 </TD> <TD align="right"> 2.37 </TD> <TD align="right"> 19.00 </TD> <TD align="right"> 30.00 </TD> <TD align="right"> 11.00 </TD> <TD align="right"> 0.43 </TD> </TR>
-  <TR> <TD align="right"> РСЩ_1 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 2.16 </TD> <TD align="right"> 0.46 </TD> <TD align="right"> 2.14 </TD> <TD align="right"> 0.52 </TD> <TD align="right"> 1.40 </TD> <TD align="right"> 3.50 </TD> <TD align="right"> 2.10 </TD> <TD align="right"> 0.07 </TD> </TR>
-  <TR> <TD align="right"> УЗ.хрящ_1 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 0.88 </TD> <TD align="right"> 0.34 </TD> <TD align="right"> 0.84 </TD> <TD align="right"> 0.30 </TD> <TD align="right"> 0.40 </TD> <TD align="right"> 2.10 </TD> <TD align="right"> 1.70 </TD> <TD align="right"> 0.05 </TD> </TR>
-  <TR> <TD align="right"> ВАШ_1 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 77.95 </TD> <TD align="right"> 12.42 </TD> <TD align="right"> 78.06 </TD> <TD align="right"> 14.83 </TD> <TD align="right"> 50.00 </TD> <TD align="right"> 100.00 </TD> <TD align="right"> 50.00 </TD> <TD align="right"> 1.96 </TD> </TR>
-  <TR> <TD align="right"> WOMAC_1 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 90.25 </TD> <TD align="right"> 15.56 </TD> <TD align="right"> 89.91 </TD> <TD align="right"> 14.83 </TD> <TD align="right"> 60.00 </TD> <TD align="right"> 121.00 </TD> <TD align="right"> 61.00 </TD> <TD align="right"> 2.46 </TD> </TR>
-  <TR> <TD align="right"> HAQ_1 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 13.32 </TD> <TD align="right"> 5.02 </TD> <TD align="right"> 13.31 </TD> <TD align="right"> 7.41 </TD> <TD align="right"> 5.00 </TD> <TD align="right"> 22.00 </TD> <TD align="right"> 17.00 </TD> <TD align="right"> 0.79 </TD> </TR>
-  <TR> <TD align="right"> Индекс.Лекена_1 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 9.75 </TD> <TD align="right"> 4.46 </TD> <TD align="right"> 9.31 </TD> <TD align="right"> 3.71 </TD> <TD align="right"> 5.00 </TD> <TD align="right"> 18.00 </TD> <TD align="right"> 13.00 </TD> <TD align="right"> 0.71 </TD> </TR>
-  <TR> <TD align="right"> ВАШ_2 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 52.38 </TD> <TD align="right"> 17.94 </TD> <TD align="right"> 51.72 </TD> <TD align="right"> 14.83 </TD> <TD align="right"> 20.00 </TD> <TD align="right"> 100.00 </TD> <TD align="right"> 80.00 </TD> <TD align="right"> 2.84 </TD> </TR>
-  <TR> <TD align="right"> WOMAC_2 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 79.17 </TD> <TD align="right"> 13.36 </TD> <TD align="right"> 78.59 </TD> <TD align="right"> 14.83 </TD> <TD align="right"> 50.00 </TD> <TD align="right"> 110.00 </TD> <TD align="right"> 60.00 </TD> <TD align="right"> 2.11 </TD> </TR>
-  <TR> <TD align="right"> HAQ_2 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 11.07 </TD> <TD align="right"> 4.26 </TD> <TD align="right"> 11.09 </TD> <TD align="right"> 5.19 </TD> <TD align="right"> 3.00 </TD> <TD align="right"> 19.00 </TD> <TD align="right"> 16.00 </TD> <TD align="right"> 0.67 </TD> </TR>
-  <TR> <TD align="right"> Индекс.Лекена_2 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 8.47 </TD> <TD align="right"> 3.81 </TD> <TD align="right"> 8.12 </TD> <TD align="right"> 2.97 </TD> <TD align="right"> 4.00 </TD> <TD align="right"> 16.00 </TD> <TD align="right"> 12.00 </TD> <TD align="right"> 0.60 </TD> </TR>
-  <TR> <TD align="right"> РСЩ_3 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 2.15 </TD> <TD align="right"> 0.47 </TD> <TD align="right"> 2.14 </TD> <TD align="right"> 0.52 </TD> <TD align="right"> 1.30 </TD> <TD align="right"> 3.50 </TD> <TD align="right"> 2.20 </TD> <TD align="right"> 0.07 </TD> </TR>
-  <TR> <TD align="right"> УЗЩ_3 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 0.87 </TD> <TD align="right"> 0.36 </TD> <TD align="right"> 0.83 </TD> <TD align="right"> 0.30 </TD> <TD align="right"> 0.40 </TD> <TD align="right"> 2.10 </TD> <TD align="right"> 1.70 </TD> <TD align="right"> 0.06 </TD> </TR>
-  <TR> <TD align="right"> ВАШ_3 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 61.12 </TD> <TD align="right"> 13.98 </TD> <TD align="right"> 60.47 </TD> <TD align="right"> 14.83 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 90.00 </TD> <TD align="right"> 50.00 </TD> <TD align="right"> 2.21 </TD> </TR>
-  <TR> <TD align="right"> WOMAC_3 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 81.83 </TD> <TD align="right"> 12.37 </TD> <TD align="right"> 81.19 </TD> <TD align="right"> 14.83 </TD> <TD align="right"> 60.00 </TD> <TD align="right"> 115.00 </TD> <TD align="right"> 55.00 </TD> <TD align="right"> 1.96 </TD> </TR>
-  <TR> <TD align="right"> HAQ_3 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 11.97 </TD> <TD align="right"> 3.95 </TD> <TD align="right"> 12.00 </TD> <TD align="right"> 4.45 </TD> <TD align="right"> 5.00 </TD> <TD align="right"> 20.00 </TD> <TD align="right"> 15.00 </TD> <TD align="right"> 0.62 </TD> </TR>
-  <TR> <TD align="right"> Индекс.Лекена_3 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 9.97 </TD> <TD align="right"> 3.55 </TD> <TD align="right"> 9.44 </TD> <TD align="right"> 2.97 </TD> <TD align="right"> 6.00 </TD> <TD align="right"> 18.00 </TD> <TD align="right"> 12.00 </TD> <TD align="right"> 0.56 </TD> </TR>
-   </TABLE>
+
+```
+## [1] "АЛФУТОП"
+## 
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 62.10 | 7.45  | 62.16 | 7.41  | 49.00 | 77.00  | 28.00 | 1.18 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 5.40  | 3.07  | 5.09  | 2.97  | 1.00  | 13.00  | 12.00 | 0.49 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 26.00 | 3.12  | 26.30 | 2.89  | 18.50 | 30.90  | 12.40 | 0.49 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 2.75  | 0.37  | 2.77  | 0.39  | 1.98  | 3.50   | 1.52  | 0.06 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 0.69  | 0.21  | 0.68  | 0.24  | 0.35  | 1.20   | 0.85  | 0.03 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 71.62 | 14.30 | 72.03 | 14.83 | 40.00 | 100.00 | 60.00 | 2.26 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 86.62 | 14.23 | 85.75 | 14.08 | 62.00 | 124.00 | 62.00 | 2.25 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 8.25  | 3.87  | 7.47  | 1.48  | 4.00  | 22.00  | 18.00 | 0.61 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 11.30 | 2.91  | 11.16 | 2.97  | 6.00  | 18.00  | 12.00 | 0.46 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 56.98 | 14.82 | 56.84 | 14.83 | 20.00 | 90.00  | 70.00 | 2.34 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 81.22 | 13.96 | 80.41 | 15.57 | 60.00 | 122.00 | 62.00 | 2.21 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 7.78  | 3.61  | 7.00  | 1.48  | 4.00  | 20.00  | 16.00 | 0.57 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 10.15 | 2.75  | 10.03 | 2.97  | 5.00  | 17.00  | 12.00 | 0.43 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 2.74  | 0.37  | 2.75  | 0.36  | 1.90  | 3.50   | 1.60  | 0.06 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 0.66  | 0.22  | 0.65  | 0.26  | 0.30  | 1.20   | 0.90  | 0.03 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 65.81 | 11.48 | 66.09 | 7.41  | 35.00 | 90.00  | 55.00 | 1.82 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 80.20 | 14.51 | 78.78 | 11.86 | 60.00 | 115.00 | 55.00 | 2.29 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 7.83  | 3.49  | 7.12  | 1.48  | 4.00  | 20.00  | 16.00 | 0.55 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 10.28 | 2.24  | 10.19 | 1.48  | 6.00  | 15.00  | 9.00  | 0.35 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## [1] "АРТРА"
+## 
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 36.00 | 68.28 | 8.93  | 67.97 | 8.15  | 48.00 | 89.00  | 41.00 | 1.49 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 36.00 | 9.32  | 5.52  | 9.13  | 5.19  | 1.00  | 20.00  | 19.00 | 0.92 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 36.00 | 24.33 | 2.88  | 24.50 | 2.59  | 17.00 | 29.00  | 12.00 | 0.48 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 36.00 | 2.04  | 0.59  | 2.05  | 0.55  | 0.87  | 3.41   | 2.54  | 0.10 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 36.00 | 0.97  | 0.73  | 0.86  | 0.26  | 0.50  | 5.00   | 4.50  | 0.12 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 36.00 | 80.14 | 10.18 | 80.50 | 7.41  | 50.00 | 100.00 | 50.00 | 1.70 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 36.00 | 92.61 | 11.69 | 92.70 | 10.38 | 69.00 | 116.00 | 47.00 | 1.95 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 36.00 | 14.19 | 4.94  | 14.27 | 5.93  | 6.00  | 22.00  | 16.00 | 0.82 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 36.00 | 12.31 | 3.32  | 12.23 | 3.71  | 7.00  | 18.00  | 11.00 | 0.55 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 36.00 | 79.64 | 10.20 | 80.23 | 7.41  | 50.00 | 100.00 | 50.00 | 1.70 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 36.00 | 91.86 | 12.02 | 91.90 | 8.15  | 69.00 | 116.00 | 47.00 | 2.00 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 36.00 | 14.19 | 4.94  | 14.27 | 5.93  | 6.00  | 22.00  | 16.00 | 0.82 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 36.00 | 12.31 | 3.32  | 12.23 | 3.71  | 7.00  | 18.00  | 11.00 | 0.55 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 36.00 | 2.03  | 0.59  | 2.04  | 0.57  | 0.80  | 3.41   | 2.61  | 0.10 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 36.00 | 0.88  | 0.38  | 0.85  | 0.37  | 0.38  | 2.10   | 1.72  | 0.06 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 36.00 | 78.89 | 10.01 | 79.33 | 7.41  | 55.00 | 95.00  | 40.00 | 1.67 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 36.00 | 90.89 | 12.28 | 91.27 | 11.86 | 65.00 | 110.00 | 45.00 | 2.05 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 36.00 | 13.72 | 4.86  | 13.73 | 6.67  | 6.00  | 22.00  | 16.00 | 0.81 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 36.00 | 11.86 | 3.30  | 11.80 | 3.71  | 7.00  | 18.00  | 11.00 | 0.55 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## [1] "СУПЛАЗИН"
+## 
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 60.50 | 9.18  | 61.38 | 9.64  | 37.00 | 72.00  | 35.00 | 1.45 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 5.09  | 3.75  | 4.64  | 2.97  | 1.00  | 15.00  | 14.00 | 0.59 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 24.99 | 2.69  | 25.23 | 2.37  | 19.00 | 30.00  | 11.00 | 0.43 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 2.16  | 0.46  | 2.14  | 0.52  | 1.40  | 3.50   | 2.10  | 0.07 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 0.88  | 0.34  | 0.84  | 0.30  | 0.40  | 2.10   | 1.70  | 0.05 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 77.95 | 12.42 | 78.06 | 14.83 | 50.00 | 100.00 | 50.00 | 1.96 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 90.25 | 15.56 | 89.91 | 14.83 | 60.00 | 121.00 | 61.00 | 2.46 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 13.32 | 5.02  | 13.31 | 7.41  | 5.00  | 22.00  | 17.00 | 0.79 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 9.75  | 4.46  | 9.31  | 3.71  | 5.00  | 18.00  | 13.00 | 0.71 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 52.38 | 17.94 | 51.72 | 14.83 | 20.00 | 100.00 | 80.00 | 2.84 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 79.17 | 13.36 | 78.59 | 14.83 | 50.00 | 110.00 | 60.00 | 2.11 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 11.07 | 4.26  | 11.09 | 5.19  | 3.00  | 19.00  | 16.00 | 0.67 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 8.47  | 3.81  | 8.12  | 2.97  | 4.00  | 16.00  | 12.00 | 0.60 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 2.15  | 0.47  | 2.14  | 0.52  | 1.30  | 3.50   | 2.20  | 0.07 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 0.87  | 0.36  | 0.83  | 0.30  | 0.40  | 2.10   | 1.70  | 0.06 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 61.12 | 13.98 | 60.47 | 14.83 | 40.00 | 90.00  | 50.00 | 2.21 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 81.83 | 12.37 | 81.19 | 14.83 | 60.00 | 115.00 | 55.00 | 1.96 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 11.97 | 3.95  | 12.00 | 4.45  | 5.00  | 20.00  | 15.00 | 0.62 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+## | 40.00 | 9.97  | 3.55  | 9.44  | 2.97  | 6.00  | 18.00  | 12.00 | 0.56 |
+## +-------+-------+-------+-------+-------+-------+--------+-------+------+
+```
 
 В целом по выборке:
-<!-- html table generated in R 2.15.1 by xtable 1.7-0 package -->
-<!-- Thu Sep 13 22:52:42 2012 -->
-<TABLE border=1>
-<TR> <TH>  </TH> <TH> n </TH> <TH> mean </TH> <TH> sd </TH> <TH> trimmed </TH> <TH> mad </TH> <TH> min </TH> <TH> max </TH> <TH> range </TH> <TH> se </TH>  </TR>
-  <TR> <TD align="right"> Возраст </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 63.47 </TD> <TD align="right"> 9.09 </TD> <TD align="right"> 63.60 </TD> <TD align="right"> 9.64 </TD> <TD align="right"> 37.00 </TD> <TD align="right"> 89.00 </TD> <TD align="right"> 52.00 </TD> <TD align="right"> 0.84 </TD> </TR>
-  <TR> <TD align="right"> Длит.болезни </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 6.51 </TD> <TD align="right"> 4.57 </TD> <TD align="right"> 5.93 </TD> <TD align="right"> 4.45 </TD> <TD align="right"> 1.00 </TD> <TD align="right"> 20.00 </TD> <TD align="right"> 19.00 </TD> <TD align="right"> 0.42 </TD> </TR>
-  <TR> <TD align="right"> ИМТ </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 25.13 </TD> <TD align="right"> 2.96 </TD> <TD align="right"> 25.35 </TD> <TD align="right"> 2.67 </TD> <TD align="right"> 17.00 </TD> <TD align="right"> 30.90 </TD> <TD align="right"> 13.90 </TD> <TD align="right"> 0.27 </TD> </TR>
-  <TR> <TD align="right"> РСЩ_1 </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 2.33 </TD> <TD align="right"> 0.57 </TD> <TD align="right"> 2.34 </TD> <TD align="right"> 0.62 </TD> <TD align="right"> 0.87 </TD> <TD align="right"> 3.50 </TD> <TD align="right"> 2.63 </TD> <TD align="right"> 0.05 </TD> </TR>
-  <TR> <TD align="right"> УЗ.хрящ_1 </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 0.84 </TD> <TD align="right"> 0.48 </TD> <TD align="right"> 0.79 </TD> <TD align="right"> 0.27 </TD> <TD align="right"> 0.35 </TD> <TD align="right"> 5.00 </TD> <TD align="right"> 4.65 </TD> <TD align="right"> 0.04 </TD> </TR>
-  <TR> <TD align="right"> ВАШ_1 </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 76.45 </TD> <TD align="right"> 12.90 </TD> <TD align="right"> 76.97 </TD> <TD align="right"> 14.83 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 100.00 </TD> <TD align="right"> 60.00 </TD> <TD align="right"> 1.20 </TD> </TR>
-  <TR> <TD align="right"> WOMAC_1 </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 89.73 </TD> <TD align="right"> 14.09 </TD> <TD align="right"> 89.24 </TD> <TD align="right"> 14.08 </TD> <TD align="right"> 60.00 </TD> <TD align="right"> 124.00 </TD> <TD align="right"> 64.00 </TD> <TD align="right"> 1.31 </TD> </TR>
-  <TR> <TD align="right"> HAQ_1 </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 11.84 </TD> <TD align="right"> 5.30 </TD> <TD align="right"> 11.55 </TD> <TD align="right"> 5.93 </TD> <TD align="right"> 4.00 </TD> <TD align="right"> 22.00 </TD> <TD align="right"> 18.00 </TD> <TD align="right"> 0.49 </TD> </TR>
-  <TR> <TD align="right"> Индекс.Лекена_1 </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 11.08 </TD> <TD align="right"> 3.75 </TD> <TD align="right"> 10.96 </TD> <TD align="right"> 4.45 </TD> <TD align="right"> 5.00 </TD> <TD align="right"> 18.00 </TD> <TD align="right"> 13.00 </TD> <TD align="right"> 0.35 </TD> </TR>
-  <TR> <TD align="right"> ВАШ_2 </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 62.42 </TD> <TD align="right"> 18.80 </TD> <TD align="right"> 62.76 </TD> <TD align="right"> 22.24 </TD> <TD align="right"> 20.00 </TD> <TD align="right"> 100.00 </TD> <TD align="right"> 80.00 </TD> <TD align="right"> 1.75 </TD> </TR>
-  <TR> <TD align="right"> WOMAC_2 </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 83.82 </TD> <TD align="right"> 14.17 </TD> <TD align="right"> 83.43 </TD> <TD align="right"> 17.05 </TD> <TD align="right"> 50.00 </TD> <TD align="right"> 122.00 </TD> <TD align="right"> 72.00 </TD> <TD align="right"> 1.32 </TD> </TR>
-  <TR> <TD align="right"> HAQ_2 </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 10.91 </TD> <TD align="right"> 4.98 </TD> <TD align="right"> 10.61 </TD> <TD align="right"> 4.45 </TD> <TD align="right"> 3.00 </TD> <TD align="right"> 22.00 </TD> <TD align="right"> 19.00 </TD> <TD align="right"> 0.46 </TD> </TR>
-  <TR> <TD align="right"> Индекс.Лекена_2 </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 10.24 </TD> <TD align="right"> 3.64 </TD> <TD align="right"> 10.12 </TD> <TD align="right"> 4.45 </TD> <TD align="right"> 4.00 </TD> <TD align="right"> 18.00 </TD> <TD align="right"> 14.00 </TD> <TD align="right"> 0.34 </TD> </TR>
-  <TR> <TD align="right"> РСЩ_3 </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 2.32 </TD> <TD align="right"> 0.57 </TD> <TD align="right"> 2.33 </TD> <TD align="right"> 0.61 </TD> <TD align="right"> 0.80 </TD> <TD align="right"> 3.50 </TD> <TD align="right"> 2.70 </TD> <TD align="right"> 0.05 </TD> </TR>
-  <TR> <TD align="right"> УЗЩ_3 </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 0.80 </TD> <TD align="right"> 0.34 </TD> <TD align="right"> 0.76 </TD> <TD align="right"> 0.30 </TD> <TD align="right"> 0.30 </TD> <TD align="right"> 2.10 </TD> <TD align="right"> 1.80 </TD> <TD align="right"> 0.03 </TD> </TR>
-  <TR> <TD align="right"> ВАШ_3 </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 68.25 </TD> <TD align="right"> 14.02 </TD> <TD align="right"> 68.64 </TD> <TD align="right"> 14.83 </TD> <TD align="right"> 35.00 </TD> <TD align="right"> 95.00 </TD> <TD align="right"> 60.00 </TD> <TD align="right"> 1.30 </TD> </TR>
-  <TR> <TD align="right"> WOMAC_3 </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 84.08 </TD> <TD align="right"> 13.81 </TD> <TD align="right"> 83.50 </TD> <TD align="right"> 16.31 </TD> <TD align="right"> 60.00 </TD> <TD align="right"> 115.00 </TD> <TD align="right"> 55.00 </TD> <TD align="right"> 1.28 </TD> </TR>
-  <TR> <TD align="right"> HAQ_3 </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 11.09 </TD> <TD align="right"> 4.77 </TD> <TD align="right"> 10.79 </TD> <TD align="right"> 5.19 </TD> <TD align="right"> 4.00 </TD> <TD align="right"> 22.00 </TD> <TD align="right"> 18.00 </TD> <TD align="right"> 0.44 </TD> </TR>
-  <TR> <TD align="right"> Индекс.Лекена_3 </TD> <TD align="right"> 116.00 </TD> <TD align="right"> 10.66 </TD> <TD align="right"> 3.16 </TD> <TD align="right"> 10.37 </TD> <TD align="right"> 2.97 </TD> <TD align="right"> 6.00 </TD> <TD align="right"> 18.00 </TD> <TD align="right"> 12.00 </TD> <TD align="right"> 0.29 </TD> </TR>
-   </TABLE>
+
+
+```
+## 
+## +-----------------+--------+-------+-------+---------+-------+-------+--------+-------+------+
+## |                 | n      | mean  | sd    | trimmed | mad   | min   | max    | range | se   |
+## +=================+========+=======+=======+=========+=======+=======+========+=======+======+
+## | Возраст         | 116.00 | 63.47 | 9.09  | 63.60   | 9.64  | 37.00 | 89.00  | 52.00 | 0.84 |
+## +-----------------+--------+-------+-------+---------+-------+-------+--------+-------+------+
+## | Длит.болезни    | 116.00 | 6.51  | 4.57  | 5.93    | 4.45  | 1.00  | 20.00  | 19.00 | 0.42 |
+## +-----------------+--------+-------+-------+---------+-------+-------+--------+-------+------+
+## | ИМТ             | 116.00 | 25.13 | 2.96  | 25.35   | 2.67  | 17.00 | 30.90  | 13.90 | 0.27 |
+## +-----------------+--------+-------+-------+---------+-------+-------+--------+-------+------+
+## | РСЩ_1           | 116.00 | 2.33  | 0.57  | 2.34    | 0.62  | 0.87  | 3.50   | 2.63  | 0.05 |
+## +-----------------+--------+-------+-------+---------+-------+-------+--------+-------+------+
+## | УЗ.хрящ_1       | 116.00 | 0.84  | 0.48  | 0.79    | 0.27  | 0.35  | 5.00   | 4.65  | 0.04 |
+## +-----------------+--------+-------+-------+---------+-------+-------+--------+-------+------+
+## | ВАШ_1           | 116.00 | 76.45 | 12.90 | 76.97   | 14.83 | 40.00 | 100.00 | 60.00 | 1.20 |
+## +-----------------+--------+-------+-------+---------+-------+-------+--------+-------+------+
+## | WOMAC_1         | 116.00 | 89.73 | 14.09 | 89.24   | 14.08 | 60.00 | 124.00 | 64.00 | 1.31 |
+## +-----------------+--------+-------+-------+---------+-------+-------+--------+-------+------+
+## | HAQ_1           | 116.00 | 11.84 | 5.30  | 11.55   | 5.93  | 4.00  | 22.00  | 18.00 | 0.49 |
+## +-----------------+--------+-------+-------+---------+-------+-------+--------+-------+------+
+## | Индекс.Лекена_1 | 116.00 | 11.08 | 3.75  | 10.96   | 4.45  | 5.00  | 18.00  | 13.00 | 0.35 |
+## +-----------------+--------+-------+-------+---------+-------+-------+--------+-------+------+
+## | ВАШ_2           | 116.00 | 62.42 | 18.80 | 62.76   | 22.24 | 20.00 | 100.00 | 80.00 | 1.75 |
+## +-----------------+--------+-------+-------+---------+-------+-------+--------+-------+------+
+## | WOMAC_2         | 116.00 | 83.82 | 14.17 | 83.43   | 17.05 | 50.00 | 122.00 | 72.00 | 1.32 |
+## +-----------------+--------+-------+-------+---------+-------+-------+--------+-------+------+
+## | HAQ_2           | 116.00 | 10.91 | 4.98  | 10.61   | 4.45  | 3.00  | 22.00  | 19.00 | 0.46 |
+## +-----------------+--------+-------+-------+---------+-------+-------+--------+-------+------+
+## | Индекс.Лекена_2 | 116.00 | 10.24 | 3.64  | 10.12   | 4.45  | 4.00  | 18.00  | 14.00 | 0.34 |
+## +-----------------+--------+-------+-------+---------+-------+-------+--------+-------+------+
+## | РСЩ_3           | 116.00 | 2.32  | 0.57  | 2.33    | 0.61  | 0.80  | 3.50   | 2.70  | 0.05 |
+## +-----------------+--------+-------+-------+---------+-------+-------+--------+-------+------+
+## | УЗЩ_3           | 116.00 | 0.80  | 0.34  | 0.76    | 0.30  | 0.30  | 2.10   | 1.80  | 0.03 |
+## +-----------------+--------+-------+-------+---------+-------+-------+--------+-------+------+
+## | ВАШ_3           | 116.00 | 68.25 | 14.02 | 68.64   | 14.83 | 35.00 | 95.00  | 60.00 | 1.30 |
+## +-----------------+--------+-------+-------+---------+-------+-------+--------+-------+------+
+## | WOMAC_3         | 116.00 | 84.08 | 13.81 | 83.50   | 16.31 | 60.00 | 115.00 | 55.00 | 1.28 |
+## +-----------------+--------+-------+-------+---------+-------+-------+--------+-------+------+
+## | HAQ_3           | 116.00 | 11.09 | 4.77  | 10.79   | 5.19  | 4.00  | 22.00  | 18.00 | 0.44 |
+## +-----------------+--------+-------+-------+---------+-------+-------+--------+-------+------+
+## | Индекс.Лекена_3 | 116.00 | 10.66 | 3.16  | 10.37   | 2.97  | 6.00  | 18.00  | 12.00 | 0.29 |
+## +-----------------+--------+-------+-------+---------+-------+-------+--------+-------+------+
+```
 
 
 Процентное соотношение сопутствующих заболеваний по группам и в целом:
-<!-- html table generated in R 2.15.1 by xtable 1.7-0 package -->
-<!-- Thu Sep 13 22:52:42 2012 -->
-<TABLE border=1>
-<TR> <TH>  </TH> <TH> АЛФУТОП </TH> <TH> АРТРА </TH> <TH> СУПЛАЗИН </TH>  </TR>
-  <TR> <TD align="right"> 1 </TD> <TD align="right"> 40.00 </TD> <TD align="right"> 36.00 </TD> <TD align="right"> 40.00 </TD> </TR>
-   </TABLE>
-<!-- html table generated in R 2.15.1 by xtable 1.7-0 package -->
-<!-- Thu Sep 13 22:52:42 2012 -->
-<TABLE border=1>
-<TR> <TH>  </TH> <TH> жен </TH> <TH> муж </TH>  </TR>
-  <TR> <TD align="right"> 1 </TD> <TD align="right"> 91.38 </TD> <TD align="right"> 8.62 </TD> </TR>
-   </TABLE>
-<!-- html table generated in R 2.15.1 by xtable 1.7-0 package -->
-<!-- Thu Sep 13 22:52:42 2012 -->
-<TABLE border=1>
-<TR> <TH>  </TH> <TH> V1 </TH> <TH> ГБ </TH> <TH> ГБ+ИБС </TH> <TH> ГБ, ИБС </TH>  </TR>
-  <TR> <TD align="right"> АЛФУТОП </TD> <TD align="right"> 0.00 </TD> <TD align="right"> 30.77 </TD> <TD align="right"> 5.13 </TD> <TD align="right"> 5.13 </TD> </TR>
-  <TR> <TD align="right"> АРТРА </TD> <TD align="right"> 0.00 </TD> <TD align="right"> 17.95 </TD> <TD align="right"> 12.82 </TD> <TD align="right"> 0.00 </TD> </TR>
-  <TR> <TD align="right"> СУПЛАЗИН </TD> <TD align="right"> 0.00 </TD> <TD align="right"> 10.26 </TD> <TD align="right"> 17.95 </TD> <TD align="right"> 0.00 </TD> </TR>
-   </TABLE>
-<!-- html table generated in R 2.15.1 by xtable 1.7-0 package -->
-<!-- Thu Sep 13 22:52:42 2012 -->
-<TABLE border=1>
-<TR> <TH>  </TH> <TH> V1 </TH> <TH> ГБ </TH> <TH> ГБ+ИБС </TH> <TH> ГБ, ИБС </TH>  </TR>
-  <TR> <TD align="right"> 1 </TD> <TD align="right"> 0.00 </TD> <TD align="right"> 58.97 </TD> <TD align="right"> 35.90 </TD> <TD align="right"> 5.13 </TD> </TR>
-   </TABLE>
+
+
+```
+## 
+## +---+---------+-------+----------+
+## |   | АЛФУТОП | АРТРА | СУПЛАЗИН |
+## +===+=========+=======+==========+
+## | 1 | 40.00   | 36.00 | 40.00    |
+## +---+---------+-------+----------+
+```
+
+```
+## 
+## +---+-------+------+
+## |   | жен   | муж  |
+## +===+=======+======+
+## | 1 | 91.38 | 8.62 |
+## +---+-------+------+
+```
+
+```
+## 
+## +------------+----------+----------------------+-------+--------+---------+
+## |                       | **Сопутс.патология**                            |
+## +                       +----------------------+-------+--------+---------+
+## |                       | V1                   | ГБ    | ГБ+ИБС | ГБ, ИБС |
+## +============+==========+======================+=======+========+=========+
+## | **Группа** | АЛФУТОП  | 0.00                 | 30.77 | 5.13   | 5.13    |
+## +            +----------+----------------------+-------+--------+---------+
+## |            | АРТРА    | 0.00                 | 17.95 | 12.82  | 0.00    |
+## +            +----------+----------------------+-------+--------+---------+
+## |            | СУПЛАЗИН | 0.00                 | 10.26 | 17.95  | 0.00    |
+## +------------+----------+----------------------+-------+--------+---------+
+```
+
+```
+## 
+## +---+------+-------+--------+---------+
+## |   |      | ГБ    | ГБ+ИБС | ГБ, ИБС |
+## +===+======+=======+========+=========+
+## | 1 | 0.00 | 58.97 | 35.90  | 5.13    |
+## +---+------+-------+--------+---------+
+```
 
 
 # Оценка репрезентативности выборки относительно генеральной совокупности
 Для того, чтобы оценить, является ли выборка больных, участвовавших в исследовании репрезентативной относительно всей генеральной совокупности больных остеоартритом, необходимо сделать проверку на соответствие распределения тестовых и физических показателей нормальному распределению. Для проверки соответствия эмпирического распределения нормальному мы использовали критерий Колмогорова-Смирнова.
 Результаты критерия Шапиро-Уилка:
-<!-- html table generated in R 2.15.1 by xtable 1.7-0 package -->
-<!-- Thu Sep 13 22:52:42 2012 -->
-<TABLE border=1>
-<TR> <TH>  </TH> <TH> statistic </TH> <TH> p.value </TH>  </TR>
-  <TR> <TD align="right"> РСЩ_1 </TD> <TD align="right"> 0.99 </TD> <TD align="right"> 0.32 </TD> </TR>
-  <TR> <TD align="right"> УЗ.хрящ_1 </TD> <TD align="right"> 0.55 </TD> <TD align="right"> 0.00 </TD> </TR>
-  <TR> <TD align="right"> ВАШ_1 </TD> <TD align="right"> 0.97 </TD> <TD align="right"> 0.01 </TD> </TR>
-  <TR> <TD align="right"> WOMAC_1 </TD> <TD align="right"> 0.98 </TD> <TD align="right"> 0.07 </TD> </TR>
-  <TR> <TD align="right"> HAQ_1 </TD> <TD align="right"> 0.90 </TD> <TD align="right"> 0.00 </TD> </TR>
-  <TR> <TD align="right"> Индекс.Лекена_1 </TD> <TD align="right"> 0.95 </TD> <TD align="right"> 0.00 </TD> </TR>
-   </TABLE>
+
+
+```
+## 
+## +-----------------+-------------------+----------------------+
+## |                 | statistic         | p.value              |
+## +=================+===================+======================+
+## | РСЩ_1           | 0.986895622685552 | 0.324693616108615    |
+## +-----------------+-------------------+----------------------+
+## | УЗ.хрящ_1       | 0.553684115409851 | 3.573939255074e-17   |
+## +-----------------+-------------------+----------------------+
+## | ВАШ_1           | 0.967586074024439 | 0.00657047669761588  |
+## +-----------------+-------------------+----------------------+
+## | WOMAC_1         | 0.979215236380696 | 0.0686166637900979   |
+## +-----------------+-------------------+----------------------+
+## | HAQ_1           | 0.898410081863403 | 2.39411169244351e-07 |
+## +-----------------+-------------------+----------------------+
+## | Индекс.Лекена_1 | 0.950479231774807 | 0.00030436905134189  |
+## +-----------------+-------------------+----------------------+
+```
 
 Как мы видим, в целом, для большей части переменных вероятность отличия эмпирического распределения от нормального значимо на уровне p>0,05. Это позволяет нам говорить о том, что выборка респондентов является репрезентативной относительно генеральной совокупности больных остеоартритом.
 
@@ -158,19 +257,29 @@
 Экспериментальный факторный план, предполагающий три группы, требует проверку на начальную, до лечения, гомогенность групп. Так как, в противном случае, при начальной неоднородности групп вывод о влиянии или не влиянии лечения тем или иным комплексным препаратом будет невалиден.
  Проверка на наличие различий между группами по тестовым показателям относительно начала лечения проводилась непараметрическим методом сравнения нескольких независимых групп Краскала-Уоллеса.
 Статистики критерия таковы:
-<!-- html table generated in R 2.15.1 by xtable 1.7-0 package -->
-<!-- Thu Sep 13 22:52:42 2012 -->
-<TABLE border=1>
-<TR> <TH>  </TH> <TH> statistic </TH> <TH> p.value </TH>  </TR>
-  <TR> <TD align="right"> РСЩ_1 </TD> <TD align="right"> 6786.00 </TD> <TD align="right"> 0.00 </TD> </TR>
-  <TR> <TD align="right"> УЗ.хрящ_1 </TD> <TD align="right"> 6786.00 </TD> <TD align="right"> 0.00 </TD> </TR>
-  <TR> <TD align="right"> ВАШ_1 </TD> <TD align="right"> 6786.00 </TD> <TD align="right"> 0.00 </TD> </TR>
-  <TR> <TD align="right"> WOMAC_1 </TD> <TD align="right"> 6786.00 </TD> <TD align="right"> 0.00 </TD> </TR>
-  <TR> <TD align="right"> HAQ_1 </TD> <TD align="right"> 6786.00 </TD> <TD align="right"> 0.00 </TD> </TR>
-  <TR> <TD align="right"> Индекс.Лекена_1 </TD> <TD align="right"> 6786.00 </TD> <TD align="right"> 0.00 </TD> </TR>
-   </TABLE>
+
+
+```
+## 
+## +-----------------+-----------+----------------------+
+## |                 | statistic | p.value              |
+## +=================+===========+======================+
+## | РСЩ_1           | 6786      | 9.03370348234011e-21 |
+## +-----------------+-----------+----------------------+
+## | УЗ.хрящ_1       | 6786      | 8.79557706428742e-21 |
+## +-----------------+-----------+----------------------+
+## | ВАШ_1           | 6786      | 7.41985695374215e-21 |
+## +-----------------+-----------+----------------------+
+## | WOMAC_1         | 6786      | 8.80296154019955e-21 |
+## +-----------------+-----------+----------------------+
+## | HAQ_1           | 6786      | 8.4221101350859e-21  |
+## +-----------------+-----------+----------------------+
+## | Индекс.Лекена_1 | 6786      | 8.45190433650884e-21 |
+## +-----------------+-----------+----------------------+
+```
 
 Как мы видим, для трех групп по основным объективным показателям – размеру суставной щели и УЗИ хряща, как и для субъективно-оценочных показателей, существуют различия на уровне значимости p<0,05. Что не позволяет нам говорить о том, что на момент  начала лечения группы были подобны, и требования по контролю внешних факторов соблюдены.
+
 
 ```
 ## 
@@ -199,42 +308,55 @@
 Сравнение делалось непараметрическим критерием сравне ния зависимых групп, критерием Фридмана.
 Статистики критерия по каждому тесту таковы:
 По различиям в рентгенограмме суставной щели до лечения и через шесть месяцев после лечения:
-[1] "АЛФУТОП"
-<!-- html table generated in R 2.15.1 by xtable 1.7-0 package -->
-<!-- Thu Sep 13 22:52:42 2012 -->
-<TABLE border=1>
-<TR> <TH>  </TH> <TH> statistic </TH> <TH> p.value </TH>  </TR>
-  <TR> <TD align="right"> РСЩ_1 </TD> <TD align="right"> 26.00 </TD> <TD align="right"> 0.29 </TD> </TR>
-  <TR> <TD align="right"> УЗ.хрящ_1 </TD> <TD align="right"> 105.00 </TD> <TD align="right"> 0.00 </TD> </TR>
-  <TR> <TD align="right"> ВАШ_1 </TD> <TD align="right"> 498.00 </TD> <TD align="right"> 0.01 </TD> </TR>
-  <TR> <TD align="right"> WOMAC_1 </TD> <TD align="right"> 714.50 </TD> <TD align="right"> 0.00 </TD> </TR>
-  <TR> <TD align="right"> HAQ_1 </TD> <TD align="right"> 94.50 </TD> <TD align="right"> 0.05 </TD> </TR>
-  <TR> <TD align="right"> Индекс.Лекена_1 </TD> <TD align="right"> 529.00 </TD> <TD align="right"> 0.00 </TD> </TR>
-   </TABLE>
-[1] "АРТРА"
-<!-- html table generated in R 2.15.1 by xtable 1.7-0 package -->
-<!-- Thu Sep 13 22:52:42 2012 -->
-<TABLE border=1>
-<TR> <TH>  </TH> <TH> statistic </TH> <TH> p.value </TH>  </TR>
-  <TR> <TD align="right"> РСЩ_1 </TD> <TD align="right"> 13.00 </TD> <TD align="right"> 0.18 </TD> </TR>
-  <TR> <TD align="right"> УЗ.хрящ_1 </TD> <TD align="right"> 176.50 </TD> <TD align="right"> 0.99 </TD> </TR>
-  <TR> <TD align="right"> ВАШ_1 </TD> <TD align="right"> 168.50 </TD> <TD align="right"> 0.15 </TD> </TR>
-  <TR> <TD align="right"> WOMAC_1 </TD> <TD align="right"> 138.00 </TD> <TD align="right"> 0.02 </TD> </TR>
-  <TR> <TD align="right"> HAQ_1 </TD> <TD align="right"> 62.00 </TD> <TD align="right"> 0.01 </TD> </TR>
-  <TR> <TD align="right"> Индекс.Лекена_1 </TD> <TD align="right"> 123.00 </TD> <TD align="right"> 0.00 </TD> </TR>
-   </TABLE>
-[1] "СУПЛАЗИН"
-<!-- html table generated in R 2.15.1 by xtable 1.7-0 package -->
-<!-- Thu Sep 13 22:52:42 2012 -->
-<TABLE border=1>
-<TR> <TH>  </TH> <TH> statistic </TH> <TH> p.value </TH>  </TR>
-  <TR> <TD align="right"> РСЩ_1 </TD> <TD align="right"> 5.00 </TD> <TD align="right"> 0.41 </TD> </TR>
-  <TR> <TD align="right"> УЗ.хрящ_1 </TD> <TD align="right"> 22.50 </TD> <TD align="right"> 0.17 </TD> </TR>
-  <TR> <TD align="right"> ВАШ_1 </TD> <TD align="right"> 591.50 </TD> <TD align="right"> 0.00 </TD> </TR>
-  <TR> <TD align="right"> WOMAC_1 </TD> <TD align="right"> 564.50 </TD> <TD align="right"> 0.00 </TD> </TR>
-  <TR> <TD align="right"> HAQ_1 </TD> <TD align="right"> 358.50 </TD> <TD align="right"> 0.00 </TD> </TR>
-  <TR> <TD align="right"> Индекс.Лекена_1 </TD> <TD align="right"> 146.00 </TD> <TD align="right"> 0.30 </TD> </TR>
-   </TABLE>
+
+
+```
+## [1] "АЛФУТОП"
+## 
+## +-------+----------------------+
+## | 26    | 0.293029259186775    |
+## +-------+----------------------+
+## | 105   | 0.00105403404578479  |
+## +-------+----------------------+
+## | 498   | 0.00936215767358645  |
+## +-------+----------------------+
+## | 714.5 | 5.96017384075292e-07 |
+## +-------+----------------------+
+## | 94.5  | 0.050122849058098    |
+## +-------+----------------------+
+## | 529   | 4.65111150210836e-05 |
+## +-------+----------------------+
+## [1] "АРТРА"
+## 
+## +-------+---------------------+
+## | 13    | 0.177529852412153   |
+## +-------+---------------------+
+## | 176.5 | 0.989865493692669   |
+## +-------+---------------------+
+## | 168.5 | 0.153668117415481   |
+## +-------+---------------------+
+## | 138   | 0.0228636292864255  |
+## +-------+---------------------+
+## | 62    | 0.00909442783160143 |
+## +-------+---------------------+
+## | 123   | 0.00298961052038511 |
+## +-------+---------------------+
+## [1] "СУПЛАЗИН"
+## 
+## +-------+----------------------+
+## | 5     | 0.414216178242525    |
+## +-------+----------------------+
+## | 22.5  | 0.172415102611381    |
+## +-------+----------------------+
+## | 591.5 | 4.6877055160937e-07  |
+## +-------+----------------------+
+## | 564.5 | 5.10996266157417e-06 |
+## +-------+----------------------+
+## | 358.5 | 0.00214661544201118  |
+## +-------+----------------------+
+## | 146   | 0.303479727183576    |
+## +-------+----------------------+
+```
 
 Как мы видим, для всех групп p>0,05, что не позволяет говорить о том, что лечение, независимо от его типа, имело какой-то эффект на значения этого показателя. 
 Однако относительно УЗИ хряща ситуация несколько иная:
