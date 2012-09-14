@@ -5,7 +5,12 @@ options(
 )
 
 library("psych")
-library("ascii")
+library("pander")
+
+panderOptions("digits", 2)
+panderOptions("round", 2)
+panderOptions("table.style", "grid")
+panderOptions("table.split.table", Inf)
 
 dt <- read.table(file="artra.csv", sep=";", dec=",", header=TRUE)
 dt$Сопутс.патология[dt$Сопутс.патология == ""] <- NA
@@ -18,23 +23,23 @@ dt$Сопутс.патология[dt$Сопутс.патология == ""] <- 
 ```{r "Групповые описательные статистики", echo=FALSE}
 desc.groups <- describe.by(dt[c(-2, -3, -5, -13, -24)], dt$Группа, skew=FALSE)
 for (i in levels(dt$Группа)) {
-  print(ascii(as.matrix(desc.groups[[i]][c(-1, -5)]), include.rownames = TRUE, include.colnames = TRUE, caption = i), type = "rest")
+  pandoc.table(desc.groups[[i]][c(-1, -5)], caption = i)
 }
 ```
 В целом по выборке:
 
 ```{r "Описательные статистики", echo=FALSE}
 desc.all <- data.frame(describe(dt[c(-2, -3, -5, -13, -24)], skew=FALSE)[c(-1, -5)])
-print(ascii(desc.all, caption = "Описательные статистики"), type = "rest")
+pandoc.table(desc.all, caption = "Описательные статистики")
 ```
 
 Процентное соотношение сопутствующих заболеваний по группам и в целом:
 
 ```{r "Частотные таблицы", echo=FALSE}
-print(ascii(xtabs(~ Группа, dt)), type = "rest")
-print(ascii(prop.table(xtabs(~ Пол, dt))*100), type = "rest")
-print(ascii(prop.table(xtabs(~ Группа + Сопутс.патология, dt))*100), type = "rest")
-print(ascii(prop.table(xtabs(~ Сопутс.патология, dt))*100), type = "rest")
+pandoc.table(xtabs(~ Группа, dt))
+pandoc.table(prop.table(xtabs(~ Пол, dt))*100)
+pandoc.table(prop.table(xtabs(~ Группа + Сопутс.патология, dt))*100)
+pandoc.table(prop.table(xtabs(~ Сопутс.патология, dt))*100)
 ```
 
 # Оценка репрезентативности выборки относительно генеральной совокупности
@@ -43,7 +48,7 @@ print(ascii(prop.table(xtabs(~ Сопутс.патология, dt))*100), type 
 
 ```{r "Соответствие нормальному закону", echo=FALSE}
 norm.stats <- data.frame(t(sapply(dt[7:12], shapiro.test))[, 1:2])
-print(ascii(norm.stats, caption = "Критерий Шапиро-Уилка"), type = "rest")
+pandoc.table(norm.stats, caption = "Критерий Шапиро-Уилка")
 ```
 Как мы видим, в целом, для большей части переменных вероятность отличия эмпирического распределения от нормального значимо на уровне p>0,05. Это позволяет нам говорить о том, что выборка респондентов является репрезентативной относительно генеральной совокупности больных остеоартритом.
 
@@ -54,7 +59,7 @@ print(ascii(norm.stats, caption = "Критерий Шапиро-Уилка"), t
 
 ```{r "Гомогенность групп до начала исследования", echo=FALSE}
 homo.groups <- data.frame(t(sapply(dt[7:12], wilcox.test))[, c(1, 3)])
-print(ascii(homo.groups, caption = "Критерий Манна-Уитни"), type = "rest")
+pandoc.table(homo.groups, caption = "Критерий Манна-Уитни")
 ```
 Как мы видим, для трех групп по основным объективным показателям – размеру суставной щели и УЗИ хряща, как и для субъективно-оценочных показателей, существуют различия на уровне значимости p<0,05. Что не позволяет нам говорить о том, что на момент  начала лечения группы были подобны, и требования по контролю внешних факторов соблюдены.
 
@@ -84,7 +89,7 @@ print(summary(aov.rash))
 
 ```{r "Динамика изменений внутри групп", echo=FALSE, message=FALSE, warning=FALSE}
 for (i in levels(ldt$Группа)) {
-  print(ascii(t(sapply(ldt[ldt$Группа == i, 3:8], function(x) wilcox.test(x ~ ldt[ldt$Группа == i, 2], paired=TRUE)))[,c(1, 3)], include.rownames = TRUE, include.colnames = TRUE, caption = i), type = "rest")
+  pandoc.table(data.frame(t(sapply(ldt[ldt$Группа == i, 3:8], function(x) wilcox.test(x ~ ldt[ldt$Группа == i, 2], paired=TRUE)))[,c(1, 3)]), caption = i)
 }
 ```
 Как мы видим, для всех групп p>0,05, что не позволяет говорить о том, что лечение, независимо от его типа, имело какой-то эффект на значения этого показателя. 
