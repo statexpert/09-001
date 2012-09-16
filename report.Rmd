@@ -13,13 +13,13 @@ panderOptions("table.style", "grid")
 panderOptions("table.split.table", Inf)
 panderOptions("table.split.cells", Inf)
 
-opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE, comment="")
+opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE, comment="", results="asis")
 
 dt <- read.table(file="artra.csv", sep=";", dec=",", header=TRUE)
 dt$Сопутс.патология[dt$Сопутс.патология == ""] <- NA
 ```
 
-```{r "Метаданные", results="asis"}
+```{r "Метаданные"}
 pandoc.title(author = "Клевцов Артём", title = "Аналитический отчёт", date = date())
 ```
 
